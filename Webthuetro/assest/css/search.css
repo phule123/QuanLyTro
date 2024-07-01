@@ -1,0 +1,29 @@
+﻿/*#img {
+    width: 30px;
+    height: 30px;
+}
+
+.header-menu-search img {
+    width: 89px;
+    height: 46px;
+}
+
+.header-menu-search {
+    display: flex;
+}
+
+    .header-menu-search h2 {
+        position: relative;
+        top: -7px;
+        left: 20px;
+    }
+
+.body-search {
+    margin-left: 50px;
+}
+*/
+
+.container .header-container .body-search input {
+    width: 500px;
+    height: 40px;
+}

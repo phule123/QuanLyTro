@@ -1,0 +1,246 @@
+﻿/*  Menu Header */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #fff;
+}
+
+#nav {
+    width: 100%;
+    height: 60px;
+    /* background-color: #66818f; */
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    height: 100%;
+}
+
+.container_nav {
+    background-color: #ccc;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    line-height: 60px;
+    border-radius: 10px;
+}
+
+#nav .container .navbar a {
+    text-decoration: none;
+    color: black;
+}
+
+
+#nav .container .navbar:hover {
+    background-color: aliceblue;
+    cursor: pointer;
+}
+
+#nav .container .container_nav .timkiem {
+    height: 100%;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+    #nav .container .container_nav .timkiem:hover a {
+        background-color: aliceblue;
+        color: red;
+    }
+
+#nav .container .img {
+    display: flex;
+    line-height: 60px;
+    padding: 10px 0;
+}
+
+    #nav .container .img img {
+        width: 60px;
+        height: 40px;
+    }
+
+#nav .container .navbar .fa-circle-user {
+    padding-right: 7px;
+}
+
+#nav .container .container_nav .taikhoan {
+    margin-right: 20px;
+}
+
+    #nav .container .container_nav .taikhoan a {
+        position: relative;
+    }
+
+/* Menu Thông Báo */
+
+.body-notification {
+    width: 14%;
+    height: 50px;
+    padding-left: 72%;
+}
+
+.header-menu-notification {
+    margin-top: 10px;
+    display: flex;
+    border-bottom: 1px solid #000000;
+}
+
+    .header-menu-notification .body-notification img {
+        height: 100%;
+    }
+
+    .header-menu-notification .body-notification {
+        position: relative;
+    }
+
+        .header-menu-notification .body-notification .notification {
+            text-decoration: none;
+            position: relative;
+            top: 14px;
+            left: -17px;
+            color:#000;
+        }
+
+    .header-menu-notification .body-menu-account {
+        display: flex;
+
+    }
+
+.body-account {
+    width: 14%;
+    height: 50px;
+    padding-top: 5px;
+}
+
+.header-menu-notification .body-account a img {
+    width: 45px;
+    height: 40px;
+}
+
+.header-menu-notification .body-account .account {
+    text-decoration: none;
+    position: relative;
+    top: -14px;
+    color: #000;
+}
+
+/* Menu Hỗ Trợ */
+
+.header-Contact .header-title-contact h1 {
+    text-align: center;
+    color: blue;
+    font-size: 60px;
+    margin-top: 80px;
+}
+
+.header-Contact .body-contact {
+    display: flex;
+}
+
+    .header-Contact .body-contact img {
+        width: 30px;
+        height: 30px;
+    }
+
+.header-Contact .body-contact {
+    margin-top: 100px;
+    height: 50px;
+    width: 100%
+}
+
+    .header-Contact .body-contact .body-contact-direct {
+        padding-top: 14px;
+        padding-left: 40px;
+        display: flex;
+        width: 250px;
+        height: 100%;
+        background-color: #ccc;
+    }
+
+        .header-Contact .body-contact .body-contact-direct p {
+            padding-top: 5px;
+            padding-left: 6px;
+        }
+
+
+    .header-Contact .body-contact .body-contact-email {
+        margin-left: 160px;
+        padding-top: 14px;
+        padding-left: 40px;
+        display: flex;
+        width: 250px;
+        height: 100%;
+        background-color: #ccc;
+    }
+
+        .header-Contact .body-contact .body-contact-email img {
+            width: 35px;
+            height: 25px;
+        }
+
+        .header-Contact .body-contact .body-contact-email p {
+            padding-top: 5px;
+            padding-left: 6px;
+        }
+
+    .header-Contact .body-contact .body-contact-phone-number {
+        margin-left: 160px;
+        padding-top: 14px;
+        padding-left: 40px;
+        display: flex;
+        width: 250px;
+        height: 100%;
+        background-color: #ccc;
+    }
+
+        .header-Contact .body-contact .body-contact-phone-number img {
+            padding-left: 35px;
+            width: 40px;
+            height: 25px;
+        }
+
+        .header-Contact .body-contact .body-contact-phone-number p {
+            padding-top: 5px;
+            padding-left: 6px;
+        }
+
+
+/* Menu Center Support */
+
+.header-center-support {
+    margin-top: 80px;
+    display: flex;
+    font-style: italic;
+    padding-bottom: 90px;
+    border-bottom: 1px solid #000000;
+}
+
+    .header-center-support .body-center-support {
+        margin-left: 350px;
+    }
+
+    .header-center-support .body-renter {
+        margin-left: 40px;
+    }
+
+    .header-center-support .body-tenant {
+        margin-left: 40px;
+    }
+
+    .header-center-support a {
+        text-decoration: none;
+    }

@@ -1,0 +1,164 @@
+﻿/* css login*/
+#registerModal.hidden {
+    opacity: 0;
+    visibility: hidden;
+}
+
+#registerModal {
+    width: 500px;
+    display: none;
+    position: fixed;
+    visibility: visible;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    background-color: #fff;
+    z-index: 1000;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+    #registerModal h2 {
+        text-align: center;
+    }
+
+    #registerModal label {
+        display: block;
+        margin: 10px 0;
+    }
+
+    #registerModal input {
+        padding: 8px;
+        margin: 5px 0;
+        /*width:97%;*/
+    }
+
+
+    #registerModal span:hover {
+        cursor: pointer;
+        color: red;
+    }
+
+    #registerModal button {
+        margin-top: 10px;
+        width: 105px;
+        padding: 10px;
+        background-color: #4caf50;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+/* đăng nhập */
+.header-contrainer-registerModal {
+    width: 100%;
+    text-align: center;
+}
+
+.header-registerModal-form {
+    text-align: center;
+    background-color: #ffffff;
+}
+#registerModal .modal-content .header-contrainer-registerModal .header-registerModal-form .nut_button {
+    
+    width:200px;
+    display:block;
+    margin:auto;
+}
+    #registerModal .modal-content .header-contrainer-registerModal .header-registerModal-form .nut_button .gioitinh input,
+    #registerModal .modal-content .header-contrainer-registerModal .header-registerModal-form .nut_button .gioitinh label {
+        margin-right: 5px;
+    }
+/*.header-registermodal-form .nut_button {
+        display: flex;
+    }*/
+.header-registerModal-form .gioitinh {
+    display: flex;
+}
+
+        .header-registerModal-form .gioitinh input {
+            width: 15px;
+            height: 26px;
+            margin-left:5px;
+        }
+
+    .header-registermodal-form .textbox-username {
+        width: 120px;
+    }
+
+
+
+.body-name-website img {
+    padding-left: 0;
+    margin-top: 10px;
+}
+
+.body-title-register h2 {
+    font-family: Helvetica;
+    margin: 10px 0px;
+  
+}
+
+.body-textbox {
+    width: 200px;
+}
+
+#textbox {
+    width: 250px;
+    height: 27px;
+    margin-top: 5px;
+    border-radius: 6px;
+    padding-left: 10px;
+}
+
+.body-forgot-password a {
+    color: #306bd9;
+    font-weight: bold;
+    position: relative;
+    left: -125px;
+}
+
+.body-forgot-password {
+    margin: 10px 0px;
+    position: relative;
+    left: -55px;
+}
+
+#container #registerModal .modal-content .body-button-register button {
+    width: 300px;
+    height: 35px;
+    border-radius: 5px;
+    color: #FFF;
+    font-size: 15px;
+    background-color: #000;
+}
+
+
+.body-no-have-account {
+    margin: 15px;
+}
+
+    .body-no-have-account p {
+        display: inline;
+    }
+
+    .body-no-have-account a {
+        padding-left: 2px;
+    }
+
+.other-policies li {
+    display: inline;
+}
+
+    .other-policies li a {
+        text-decoration: none;
+    }
+
+
+.other-policies {
+    text-align: center;
+    margin-top: 10px;
+    left: -8px;
+    font-style: italic;
+}

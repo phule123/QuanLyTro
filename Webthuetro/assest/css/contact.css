@@ -1,0 +1,157 @@
+﻿
+.title {
+    font-weight: bold;
+    text-align: center;
+    padding-top: 50px;
+    color: #173ff3;
+    font-size: 50px;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+    padding-top: 50px;
+    /* margin-left: 300px; */
+    font-size: 20px;
+}
+
+    .contact ul {
+        margin: 5px;
+        padding: 0;
+    }
+
+    .contact li {
+        margin-bottom: 10px;
+        font-size: 24px;
+    }
+
+.contact {
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+    padding-top: 30px;
+    margin-left: 300px;
+    font-size: 20px;
+}
+
+.contact-title {
+    font-size: 24px;
+    margin: 0;
+}
+
+.contact-content {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.horizontal-line {
+    border: 0;
+    height: 2px;
+    background-color: #000;
+    margin: 20px 0;
+}
+
+.suggest {
+    margin-top: 80px;
+    /* padding-left: 450px; */
+}
+
+.custom-label-container {
+    display: flex;
+    justify-content: left;
+    padding-left: 100px;
+}
+
+.custom-label {
+    padding-left: 100px;
+    display: inline-block;
+    font-size: 18px;
+    margin: 0 10px;
+    color: rgb(24, 24, 26);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.line {
+    margin-top: 77px;
+    border: 0;
+    height: 2px;
+    background-color: #000;
+}
+
+.form-button {
+    margin-top: 45px;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.icon {
+    margin-right: 30px;
+}
+
+.button-container {
+    grid-column: span 2;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+    .button-container button {
+        width: 200px;
+        padding: 15px;
+        border: none;
+        border-radius: 5px;
+        background-color: #007bff;
+        color: #fff;
+        cursor: pointer;
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+
+/* CSS cho biểu tượng sao */
+.rating {
+    unicode-bidi: bidi-override;
+    direction: rtl;
+}
+
+.star {
+    display: inline-block;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+    .star:hover:before,
+    .star:hover ~ .star:before {
+        content: '\2605';
+        position: absolute;
+        color: gold;
+    }
+
+.rating-container {
+    display: flex;
+    align-items: center;
+}
+
+    .rating-container label {
+        margin-right: 10px;
+    }
+
+.rating {
+    display: flex;
+}
+
+#footer-footer {
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 999;
+}

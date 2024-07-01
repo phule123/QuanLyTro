@@ -1,0 +1,412 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.Master.cs" Inherits="Webthuetro.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <%--<link href="assest/css/dssanpham.css" rel="stylesheet" />--%>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="assest/css/login.css" rel="stylesheet" />
+    <link href="assest/css/register.css" rel="stylesheet" />
+    <link href="masterpage.css" rel="stylesheet" />
+    <link rel="stylesheet" href="/assest/font/fontawesome-free-6.5.1-web/fontawesome-free-6.5.1-web/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    
+    <style>
+        #searchBox {
+            display: none;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 1000;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            border-radius: 8px;
+        }
+
+        #searchBox input[type="text"] {
+            width: 300px;
+            padding: 10px;
+            margin-right: 10px;
+        }
+
+        #searchBox button {
+            padding: 10px 20px;
+        }
+
+        .close-search {
+            float: right;
+            cursor: pointer;
+            font-size: 20px;
+        }
+
+        .navbar button {
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 20px;
+        }
+    </style>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <%-- header --%>
+        <div>
+            <div id="nav">
+                <div class="container">
+                    <div class="container_nav">
+                        <div class="img">
+                            <img src="assest/img/trotot.jpg" alt="">
+                        </div>
+                        <h2>TRỌ TỐT</h2>
+                        <div class="navbar trangchu"><a href="/Default.aspx">TRANG CHỦ</a></div>
+                        <div class="navbar lienhe"><a href="contact.aspx">LIÊN HỆ</a></div>
+
+                        <div class="navbar hotro"><a href="support.aspx">HỔ TRỢ</a></div>
+                        <div class="navbar quangcao"><a href="quangcao.aspx">QUẢNG CÁO</a></div>
+                        <div class="navbar qltaikhoan"><a href="ManageUser.aspx">QUẢN LÝ TÀI KHOẢN</a></div>
+                        <div class="navbar timkiem"><a href="#" onclick="toggleSearchBox()"><i class="fa-solid fa-magnifying-glass"></i></a></div>
+                        <% if (Session["isLoggedIn"] != null && (bool)Session["isLoggedIn"])
+                            { %>
+                        <div class="navbar taikhoan">
+                            <a href="#">TÀI KHOẢN</a>
+                            <img src="assest/img/Screenshot 2024-02-26 092621.jpg" alt="Avatar" class="avatar" id="avata">
+
+                            <ul>
+                                <asp:Button ID="logout" runat="server" CssClass="logout-button" Text="Đăng xuất" OnClick="logoutClick" />
+                            </ul>
+                        </div>
+                        <% }
+                            else
+                            { %>
+                        <div class="navbar taikhoan">
+                            <i class="fa-solid fa-circle-user"></i><a href="#">TÀI KHOẢN</a>
+                            <ul>
+                                <li id="login">Đăng nhập</li>
+                                <li id="register">Đăng ký</li>
+                            </ul>
+                        </div>
+                        <% } %>
+
+                        <%--<div class="navbar taikhoan">
+                            <i class="fa-solid fa-circle-user"></i><a href="#">TÀI KHOẢN</a>
+
+
+                            <% if (Session["isLoggedIn"] != null && (bool)Session["isLoggedIn"])
+                                { %>
+                            <ul>
+                                
+                                <asp:Button ID="logout" runat="server"  CssClass="logout-button" Text="Đăng xuất" onClick="logoutClick"/>
+                            </ul>
+                            <% }
+                                else
+                                { %>
+                            <ul>
+                                <li id="login">Đăng nhập</li>
+                                <li id="register">Đăng ký</li>
+                            </ul>
+                            <% } %>
+
+                            
+                        </div>--%>
+                    </div>
+                </div>
+            </div>
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <link href="masterpage.css" rel="stylesheet" />
+                <link href="assest/css/dssanpham.css" rel="stylesheet" />
+                <script src="JavaScript.js"></script>
+            </asp:ContentPlaceHolder>
+            <!-- chân trang -->
+            <div id="footer">
+                <div class="container">
+                    <div class="container_footer_main">
+                        <div class="container_footer">
+                            <style>
+                                .contentp {
+                                    display: none;
+                                }
+
+                                .show-more {
+                                    color: blue;
+                                    cursor: pointer;
+                                }
+                            </style>
+                            <h2>MUA BÁN VÀ CHO THUÊ BẤT ĐỘNG SẢN UY TÍN, NHANH CHÓNG TRÊN NHÀ TỐT</h2>
+                            <h5>(Nhà Tốt: Nền Tảng Công nghệ Bất động sản được phát triển bởi TAM TEAM)</h5>
+                            <p id="short-content">
+                                Bất động sản là một loại tài sản có giá trị lớn và tính thanh khoản cao, do đó, mua bán và cho thuê bất động sản luôn là hoạt động kinh doanh thu hút rất nhiều nhà đầu tư, từ cá nhân đến doanh nghiệp.
+   
+                            </p>
+                            <p id="full-content" class="contentp">
+                                Mua bán bất động sản là quá trình chuyển giao quyền sở hữu từ người này sang người khác, bao gồm các loại địa ốc như đất nền, đất vườn, đất nông nghiệp, nhà đất, chung cư,... Mỗi giao dịch thành công là cơ hội để người bán thu được lợi nhuận lớn, đôi khi từ hàng trăm triệu đến vài tỷ đồng, tùy thuộc vào giá trị và vị trí của tài sản.
+       
+                                <br>
+                                <br>
+                                Cho thuê bất động sản là hành động cho phép một cá nhân hoặc tổ chức sử dụng tài sản bất động sản của người khác trong một khoảng thời gian cụ thể, trong đó người thuê cam kết trả một khoản tiền xác định cho chủ sở hữu tài sản. Quá trình này được thực hiện thông qua việc thỏa thuận và ký kết hợp đồng cho thuê bất động sản, tạo nên một quan hệ hợp tác chặt chẽ giữa hai bên.
+       
+                                <br>
+                                <br>
+                                Tuy nhiên, để thành công trong lĩnh vực đầy cạnh tranh này đòi hỏi phải có kiến thức chuyên sâu về thị trường bất động sản, kỹ năng đàm phán và quản lý rủi ro để giảm thiểu tổn thất cũng như tối đa hóa lợi nhuận.
+       
+                                <br>
+                                <br>
+                                Với nhu cầu mua bán bất động sản ngày càng gia tăng như hiện nay, mỗi ngày, có hàng ngàn giao dịch BĐS diễn ra tại Nhà Tốt - nền tảng công nghệ bất động sản trực thuộc Chợ Tốt. Trong đó, có 5 loại hình bất động sản được quan tâm mua bán và cho thuê nhiều nhất.
+       
+                                <br>
+                                <br>
+                                Các loại hình mua bán và cho thuê bất động sản trên Nhà Tốt:
+       
+                                <br>
+                                <br>
+                                Cho thuê phòng trọ
+       
+                                <br>
+                                <br>
+                                Cho thuê phòng trọ là một lĩnh vực kinh doanh trong lĩnh vực bất động sản phổ biến tại Việt Nam, đặc biệt là tại các khu vực đô thị phát triển nhanh, nơi tập trung đông sinh viên, công nhân và người lao động như TP. Hồ Chí Minh, Hà Nội, Đà Nẵng,...
+       
+                                <br>
+                                <br>
+                                Nhu cầu thuê phòng trọ đến từ các đối tượng đa dạng như sinh viên, người lao động xa nhà, và nhóm người có ngân sách nhà ở từ thấp tới trung bình khá. Điều này tạo ra một thị trường cho thuê phòng trọ đa dạng với nhiều loại hình khác nhau. Các căn phòng trọ mini, chung cư mini đang trở thành lựa chọn phổ biến cho nhóm người có nhu cầu sống linh hoạt và chi phí hợp lý.
+       
+                                <br>
+                                <br>
+                                Thị trường cho thuê phòng trọ không chỉ là cơ hội kinh doanh mà còn đóng góp vào việc giải quyết vấn đề nhà ở ở các đô thị đông đúc. Sự đa dạng và linh hoạt trong các loại hình phòng trọ cung cấp cho cộng đồng nhiều lựa chọn phù hợp với nhu cầu và các mức ngân sách khác nhau.
+       
+                                <br>
+                                <br>
+                                Sự xuất hiện của các dịch vụ trực tuyến và ứng dụng di động cũng đã thúc đẩy quá trình giao dịch cho thuê phòng trọ, giúp kết nối nhanh chóng giữa chủ nhà và người thuê. Đồng thời, các chính sách hỗ trợ và quy định về nhà ở cũng đã tạo ra một môi trường kinh doanh tích cực và an toàn cho các bên liên quan.
+   
+                            </p>
+                            <span id="show-more" class="show-more">Xem thêm</span>
+                            <span id="show-less" class="show-more content">Ẩn bớt</span>
+
+                            <script>
+                                document.getElementById('show-more').addEventListener('click', function () {
+                                    document.getElementById('short-content').style.display = 'none';
+                                    document.getElementById('full-content').style.display = 'block';
+                                    document.getElementById('show-more').style.display = 'none';
+                                    document.getElementById('show-less').style.display = 'inline';
+                                });
+
+                                document.getElementById('show-less').addEventListener('click', function () {
+                                    document.getElementById('short-content').style.display = 'block';
+                                    document.getElementById('full-content').style.display = 'none';
+                                    document.getElementById('show-more').style.display = 'inline';
+                                    document.getElementById('show-less').style.display = 'none';
+                                });
+                            </script>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="footer-footer">
+                <div class="container">
+                    <div class="container_footer_mainn">
+                        <div class="container_footer_main_left">
+                            <p>Tìm trọ trên ứng dụng trọ tốt</p>
+                            <div class="container_footer_main_left_noidung">
+
+                                <div class="img">
+                                    <img src="/assest/img/trotot.jpg" alt="">
+                                </div>
+                                <ul class="list-img">
+                                    <li class="app"><a href="#">
+                                        <img src="/assest/img/appstore.jpg" alt=""></a></li>
+                                    <li class="app"><a href="#">
+                                        <img src="/assest/img/chplay.jpg" alt=""></a></li>
+                                    <li class="app"><a href="#">
+                                        <img src="/assest/img/app.jpg" alt=""></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="container_footer_main_center">
+                            <p>Về nhà tốt</p>
+                            <ul>
+                                <li class="content">Về Nhà Tốt</li>
+                                <li class="content">Quy chế hoạt động sàn</li>
+                                <li class="content">Chính sách bảo mật</li>
+                                <li class="content">Giải quyết tranh chấp</li>
+                                <li class="content">Điều khoản sử dụng</li>
+                            </ul>
+                        </div>
+                        <div class="container_footer_main_right">
+                            <p>Liên kết</p>
+                            <div>
+                                <i class="fa-brands fa-facebook"></i>
+                                <i class="fa-brands fa-youtube"></i>
+                                <i class="fa-brands fa-twitter"></i>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div id="searchBox">
+            <span class="close-search" onclick="toggleSearchBox()">&times;</span>
+            <asp:TextBox ID="searchTextBox" runat="server" placeholder="Nhập từ khóa tìm kiếm..."></asp:TextBox>
+            <asp:Button ID="searchButton" runat="server" Text="Tìm kiếm" OnClick="SearchButton_Click" />
+            <asp:Literal ID="searchResultsLiteral" runat="server"></asp:Literal>
+        </div>
+        <!-- Đăng nhập-->
+        <div id="loginModal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <div class="header-contrainer-login">
+
+                    <div class="header-login-form">
+                        <div class="body-name-website">
+                            <img src="assest/img/Logo.png" alt="Logo">
+                        </div>
+                        <div class="body-title-login">
+                            <h2>Đăng Nhập</h2>
+                        </div>
+                        <div class="textbox-username">
+                            <asp:TextBox ID="TextBox1" runat="server" placeholder="Tên Đăng Nhập"></asp:TextBox>
+                        </div>
+                        <div class="textbox-password">
+                            <asp:TextBox ID="TextBox2" runat="server" placeholder="Mật Khẩu" TextMode="Password"></asp:TextBox>
+                        </div>
+                        <div class="body-forgot-password">
+                            <%--<a href="">Quên mật khẩu ?</a>--%>
+                            <a href="forgot-password.aspx">Quên mật khẩu ?</a>
+                        </div>
+                        <div class="body-button-login">
+                            <asp:Button ID="btn_login" runat="server" Text="Đăng nhập" OnClick="MyButton_Click" />
+                        </div>
+                        <div class="body-no-have-account">
+                            <p>Chưa có tài khoản ?</p>
+                            <a href="">Đăng kí tài khoản mới</a>
+                        </div>
+                    </div>
+                    <div class="other-policies">
+                        <li><a href="">Quy chế hoạt động sàn</a></li>
+                        <span>*</span>
+                        <li><a href="">Chính sách bảo mật</a></li>
+                        <span>*</span>
+                        <li><a href="">Liên hệ hỗ trợ</a></li>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- Đăng kí -->
+        <div id="registerModal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <div class="header-contrainer-registerModal">
+
+                    <div class="header-registerModal-form">
+                        <div class="body-name-website">
+                            <img src="assest/img/Logo.png" alt="Logo">
+                        </div>
+                        <div class="body-title-register">
+                            <h2>Đăng ký</h2>
+                        </div>
+                        <div class="textbox-username">
+                            <asp:TextBox ID="TB_name" runat="server" placeholder="Họ và tên"></asp:TextBox>
+                        </div>
+                        <div class="textbox-username">
+                            <asp:TextBox ID="TB_username" runat="server" placeholder="Tên đăng nhập"></asp:TextBox>
+                        </div>
+                        <div class="textbox-username">
+                            <asp:TextBox ID="TB_password" runat="server" placeholder="Mật khẩu" TextMode="Password"></asp:TextBox>
+                        </div>
+                        <div class="textbox-username">
+                            <asp:TextBox ID="TB_sdt" runat="server" placeholder="Số điện thoại"></asp:TextBox>
+                        </div>
+                        <div class="textbox-username">
+                            <asp:TextBox ID="TB_email" runat="server" placeholder="Email" TextMode="Email"></asp:TextBox>
+
+                        </div>
+                        <div class="nut_button">
+                            <div class="gioitinh">
+                                <asp:RadioButton ID="RadioButton1" runat="server" GroupName="hi" Text="Nam" />
+                                <asp:RadioButton ID="RadioButton2" runat="server" GroupName="hi" Text=" Nữ" />
+                            </div>
+                        </div>
+
+
+                        <div class="body-button-register">
+                            <asp:Button ID="btn_register" runat="server" Text="Đăng ký" OnClick="Btn_register_Click" />
+                        </div>
+
+
+
+                    </div>
+                    <div class="other-policies">
+                        <li><a href="">Quy chế hoạt động sàn</a></li>
+                        <span>*</span>
+                        <li><a href="">Chính sách bảo mật</a></li>
+                        <span>*</span>
+                        <li><a href="">Liên hệ hỗ trợ</a></li>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+
+    </form>
+    <script>
+        // Chuyển slide
+        var KichThuoc = document.getElementsByClassName("slide")[0].clientWidth;
+        var ChuyenSlide = document.getElementsByClassName("slide-chuyenanh")[0];
+        var Chuyen = 0;
+
+        function NextSlide() {
+            Chuyen += KichThuoc;
+            if (Chuyen >= ChuyenSlide.children.length * KichThuoc) {
+                Chuyen = 0;
+            }
+            ChuyenSlide.style.marginLeft = '-' + Chuyen + 'px';
+        }
+
+        function PreviousSlide() {
+            Chuyen -= KichThuoc;
+            if (Chuyen < 0) {
+                Chuyen = (ChuyenSlide.children.length - 1) * KichThuoc;
+            }
+            ChuyenSlide.style.marginLeft = '-' + Chuyen + 'px';
+        }
+
+        function StartAutoSlide() {
+            intervalId = setInterval(NextSlide, 3000); // Thay đổi 3000 thành khoảng thời gian bạn muốn
+        }
+
+        function StopAutoSlide() {
+            clearInterval(intervalId);
+        }
+
+        // Bắt đầu chuyển động tự động khi trang được tải
+        StartAutoSlide();
+
+    </script>
+    <script>
+        function toggleSearchBox() {
+            var searchBox = document.getElementById('searchBox');
+            if (searchBox.style.display === 'none' || searchBox.style.display === '') {
+                searchBox.style.display = 'block';
+            } else {
+                searchBox.style.display = 'none';
+            }
+        }
+    </script>
+    <script src="JavaScript.js"></script>
+</body>
+
+</html>

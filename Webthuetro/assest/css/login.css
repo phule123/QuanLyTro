@@ -1,0 +1,87 @@
+﻿/* css login*/
+.header-contrainer-login {
+    width: 100%;
+    text-align: center;
+}
+
+.header-login-form {
+    height: 400px;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.body-name-website img {
+    padding-left: 0;
+    margin-top: 10px;
+}
+
+#loginModal .modal-content ..header-contrainer-login .header-login-form .body-title-login h2 {
+    font-family: Helvetica;
+    margin: 10px 0px;
+    color:blue;
+
+}
+
+.body-textbox {
+    width: 200px;
+}
+
+#textbox {
+    width: 150px;
+    height: 27px;
+    margin-top: 5px;
+    border-radius: 6px;
+    padding-left: 10px;
+}
+
+.body-forgot-password a {
+    color: #306bd9;
+    font-weight: bold;
+    position: relative;
+    left: -125px;
+}
+
+.body-forgot-password {
+    margin: 10px 0px;
+    position: relative;
+    left: -55px;
+}
+
+#container #loginModal .modal-content .body-button-login button {
+    width: 300px;
+    height: 35px;
+    border-radius: 5px;
+    color: #FFF;
+    font-size: 15px;
+    background-color: gold;
+}
+
+
+.body-no-have-account {
+    margin: 15px;
+}
+
+    .body-no-have-account p {
+        display: inline;
+    }
+
+    .body-no-have-account a {
+        padding-left: 2px;
+    }
+
+.other-policies li {
+    display: inline;
+}
+
+    .other-policies li a {
+        text-decoration: none;
+    }
+
+
+.other-policies {
+    text-align: center;
+    margin-top: 10px;
+    position: relative;
+    left: -8px;
+    font-style: italic;
+}

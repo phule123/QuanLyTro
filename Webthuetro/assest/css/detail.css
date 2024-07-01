@@ -1,0 +1,210 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #fff;
+}
+
+#nav {
+    width: 100%;
+    height: 60px;
+    /* background-color: #66818f; */
+}
+
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    height: 100%;
+}
+
+
+
+/* container-detail */
+
+
+
+/* container-detail-left */
+
+
+
+
+.container-detail {
+    margin-top: 30px;
+    position: relative;
+    width: 100%;
+    display: flex;
+}
+
+.container-detail-left {
+    width: 60%;
+    line-height: 1.7;
+    margin-left: 10px;
+}
+
+    .container-detail-left .listimg {
+        margin-bottom: 10px;
+        margin-left: -10px;
+        z-index: 1;
+    }
+
+        .container-detail-left .listimg img {
+            width: 100%;
+            border-radius: 10px;
+        }
+
+
+    .container-detail-left .thongtin {
+        display: flex;
+    }
+
+
+        .container-detail-left .thongtin p {
+            margin-right: 6px;
+        }
+
+            .container-detail-left .thongtin p i {
+                margin-right: 6px;
+            }
+
+        .container-detail-left .thongtin .gia {
+            color: red;
+            font-weight: 600;
+            font-size: 14px;
+        }
+
+        .container-detail-left .thongtin .dientich {
+            font-size: 10px;
+            margin-top: 3px;
+            opacity: .7;
+        }
+
+    .container-detail-left .fa-solid {
+        padding-right: 10px;
+    }
+
+.content-characteristic {
+    margin-top: 20px;
+    background-color: #e6dddd;
+    width: 100%;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.container-detail-left .characteristic {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+/* container-detail-right */
+
+
+
+
+
+.container-detail-right {
+    margin-left: 18px;
+    width: 40%;
+}
+
+    .container-detail-right .taikhoan {
+        display: flex;
+        padding: 10px 0 10px;
+        width: 100%;
+        background-color: #ccc;
+        border-radius: 5px;
+        justify-content: space-between;
+        line-height: 1.7;
+    }
+
+        .container-detail-right .taikhoan .taikhoan-left {
+            margin-left: 20px;
+        }
+
+            .container-detail-right .taikhoan .taikhoan-left .con {
+                font-size: 10px;
+                opacity: .6;
+            }
+
+            .container-detail-right .taikhoan .taikhoan-left .fa-folder {
+                margin-right: 8px;
+            }
+
+        .container-detail-right .taikhoan .taikhoan-right {
+            margin-right: 10px;
+        }
+
+            .container-detail-right .taikhoan .taikhoan-right .xemtrang {
+                width: 75px;
+                height: 20px;
+                border: 2px #d8860a solid;
+                color: #d8860a;
+                border-radius: 15px;
+                display: block;
+                text-align: center;
+                justify-content: center;
+                font-size: 12px;
+                font-weight: 300;
+            }
+
+
+    .container-detail-right .lienhe {
+        background-color: #ccc;
+        border-radius: 5px;
+        margin-top: 15px;
+        display: flex;
+        justify-content: space-between;
+        height: 40px;
+    }
+
+        .container-detail-right .lienhe .dau {
+            font-size: 13px;
+            margin-top: 12px;
+            font-weight: 600;
+            margin-left: 10px;
+        }
+
+        .container-detail-right .lienhe .cuoi {
+            font-size: 12px;
+            margin-top: 13px;
+            margin-right: 20px;
+            opacity: .7;
+        }
+
+    .container-detail-right .call {
+        margin-top: 15px;
+    }
+
+        .container-detail-right .call a {
+            display: flex;
+            background-color: #33a837;
+            border-radius: 5px;
+            width: 100%;
+            height: 40px;
+            justify-content: space-between;
+            text-align: center;
+            text-decoration: none;
+        }
+
+            .container-detail-right .call a p {
+                color: #fff;
+                text-align: center;
+                margin-top: 10px;
+                margin: 10px 10px 0 10px;
+            }
+
+        .container-detail-right .call .sdt {
+            margin-bottom: 15px;
+        }
+
+        .container-detail-right .call .fa-phone {
+            margin-right: 8px;
+        }

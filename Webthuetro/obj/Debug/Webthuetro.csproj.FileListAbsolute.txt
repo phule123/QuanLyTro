@@ -1,0 +1,472 @@
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\Webthuetro.dll.config
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\Webthuetro.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\Webthuetro.pdb
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\csc.exe
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\csc.exe.config
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\csc.rsp
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\csi.exe
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\csi.exe.config
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\csi.rsp
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\Microsoft.Managed.Core.targets
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.AppContext.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.Collections.Immutable.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.Console.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.Globalization.Calendars.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.IO.Compression.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.IO.FileSystem.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.Net.Http.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.Net.Sockets.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.Reflection.Metadata.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.ValueTuple.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.Xml.XmlDocument.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.Xml.XPath.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\vbc.exe
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\vbc.exe.config
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\vbc.rsp
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\VBCSCompiler.exe
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\roslyn\VBCSCompiler.exe.config
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\obj\Debug\Webthuetro.csproj.AssemblyReference.cache
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\obj\Debug\Webthuetro.csproj.CoreCompileInputs.cache
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\obj\Debug\Webthuetro.csproj.CopyComplete
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\obj\Debug\Webthuetro.dll
+D:\kythuathuongmaidt\Webthuetro\Webthuetro\obj\Debug\Webthuetro.pdb
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\Webthuetro.dll.config
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\Webthuetro.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\Webthuetro.pdb
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\csc.exe
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\csc.exe.config
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\csc.rsp
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\csi.exe
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\csi.exe.config
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\csi.rsp
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\Microsoft.Managed.Core.targets
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.AppContext.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.Collections.Immutable.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.Console.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.Globalization.Calendars.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.IO.Compression.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.IO.FileSystem.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.Net.Http.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.Net.Sockets.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.Reflection.Metadata.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.ValueTuple.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.Xml.XmlDocument.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.Xml.XPath.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\vbc.exe
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\vbc.exe.config
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\vbc.rsp
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\VBCSCompiler.exe
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\roslyn\VBCSCompiler.exe.config
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\foder_ducluong\Webthuetro\Webthuetro\obj\Debug\Webthuetro.csproj.AssemblyReference.cache
+E:\foder_ducluong\Webthuetro\Webthuetro\obj\Debug\Webthuetro.csproj.CoreCompileInputs.cache
+E:\foder_ducluong\Webthuetro\Webthuetro\obj\Debug\Webthuetro.csproj.CopyComplete
+E:\foder_ducluong\Webthuetro\Webthuetro\obj\Debug\Webthuetro.dll
+E:\foder_ducluong\Webthuetro\Webthuetro\obj\Debug\Webthuetro.pdb
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Webthuetro.dll.config
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Webthuetro.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Webthuetro.pdb
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csc.exe
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csc.exe.config
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csc.rsp
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csi.exe
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csi.exe.config
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csi.rsp
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.AppContext.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Console.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Net.Http.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\vbc.exe
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\vbc.exe.config
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\vbc.rsp
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.csproj.AssemblyReference.cache
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.csproj.CoreCompileInputs.cache
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.csproj.CopyComplete
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.dll
+C:\Users\Kiem\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.pdb
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Webthuetro.dll.config
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Webthuetro.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Webthuetro.pdb
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csc.exe
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csc.exe.config
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csc.rsp
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csi.exe
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csi.exe.config
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csi.rsp
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.AppContext.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Console.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Globalization.Calendars.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.Compression.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.FileSystem.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Net.Http.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Net.Sockets.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.ValueTuple.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.XPath.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\vbc.exe
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\vbc.exe.config
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\vbc.rsp
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\VBCSCompiler.exe
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.csproj.AssemblyReference.cache
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.csproj.CoreCompileInputs.cache
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.csproj.CopyComplete
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.dll
+D:\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.pdb
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Webthuetro.dll.config
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Webthuetro.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Webthuetro.pdb
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csc.exe
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csc.exe.config
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csc.rsp
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csi.exe
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csi.exe.config
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csi.rsp
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.AppContext.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Console.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.Compression.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Net.Http.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.ValueTuple.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\vbc.exe
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\vbc.exe.config
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\vbc.rsp
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\VBCSCompiler.exe
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.csproj.AssemblyReference.cache
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.csproj.CoreCompileInputs.cache
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.csproj.Up2Date
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.dll
+C:\Users\PhuLeVP\Documents\Zalo Received Files\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.pdb
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Webthuetro.dll.config
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Webthuetro.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Webthuetro.pdb
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csc.exe
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csc.exe.config
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csc.rsp
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csi.exe
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csi.exe.config
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csi.rsp
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.AppContext.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Collections.Immutable.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Console.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Globalization.Calendars.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.Compression.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.FileSystem.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Net.Http.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Net.Sockets.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Reflection.Metadata.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.ValueTuple.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.XPath.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\vbc.exe
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\vbc.exe.config
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\vbc.rsp
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\VBCSCompiler.exe
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\VBCSCompiler.exe.config
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.csproj.AssemblyReference.cache
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.csproj.CoreCompileInputs.cache
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.csproj.CopyComplete
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.dll
+E:\Video Tải Xuống\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.pdb
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Webthuetro.dll.config
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Webthuetro.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Webthuetro.pdb
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.csproj.CopyComplete
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.dll
+C:\Users\Admin\Downloads\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.pdb
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Webthuetro.dll.config
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Webthuetro.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Webthuetro.pdb
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csc.exe
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csc.exe.config
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csc.rsp
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csi.exe
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csi.exe.config
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\csi.rsp
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.AppContext.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Console.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.Compression.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Net.Http.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.ValueTuple.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\vbc.exe
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\vbc.exe.config
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\vbc.rsp
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\VBCSCompiler.exe
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.csproj.AssemblyReference.cache
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.csproj.CoreCompileInputs.cache
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.csproj.Up2Date
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.dll
+C:\Users\LAPPHU\Downloads\ASP.NET_TROTOT-main (1)\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\ASP.NET_TROTOT-main\Webthuetro\obj\Debug\Webthuetro.pdb

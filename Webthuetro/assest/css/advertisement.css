@@ -1,0 +1,129 @@
+﻿
+
+/* Menu Thông Báo */
+
+.body-notification {
+    width: 14%;
+    height: 50px;
+    padding-left: 72%;
+}
+
+.header-menu-notification {
+    margin-top: 10px;
+    display: flex;
+    border-bottom: 1px solid #000000;
+}
+
+    .header-menu-notification .body-notification img {
+        height: 100%;
+    }
+
+    .header-menu-notification .body-notification {
+        position: relative;
+    }
+
+        .header-menu-notification .body-notification .notification {
+            text-decoration: none;
+            position: relative;
+            top: 18px;
+            left: -17px;
+            color:#000;
+        }
+
+    .header-menu-notification .body-menu-account {
+        display: flex;
+    }
+
+.body-account {
+    width: 14%;
+    height: 50px;
+    padding-top: 5px;
+}
+
+.header-menu-notification .body-account a img {
+    width: 45px;
+    height: 40px;
+}
+
+.header-menu-notification .body-account .account {
+    text-decoration: none;
+    position: relative;
+    top: -14px;
+    color: #000;
+}
+
+/* Menu  Quảng Cáo */
+
+.header-menu-advertisement {
+    display: flex;
+    margin-top: 50px;
+}
+
+    .header-menu-advertisement .body-advertising-information-img img {
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+    }
+
+    .header-menu-advertisement .body-advertising-information-img {
+        margin-right: 100px;
+    }
+
+    .header-menu-advertisement .body-advertising-information {
+        line-height: 1.8;
+    }
+
+        .header-menu-advertisement .body-advertising-information h1 {
+            color: rgb(30, 18, 199);
+        }
+
+        .header-menu-advertisement .body-advertising-information h3 {
+            color: rgb(216, 37, 37);
+        }
+
+#contentt .container .header- {
+    width: 70%;
+    display: block;
+    text-align: center;
+    margin-left: 160px;
+    /* justify-content: center; */
+    padding: 20px;
+    background-color: #ccc;
+    border-radius: 8px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+#lienhe .container .header-contact {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+    #lienhe .container .header-contact a {
+        color: #000000;
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+        #lienhe .container .header-contact a .fa-solid {
+            margin-right: 10px;
+        }
+
+#lienhe .container .header-menu-button {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+    #lienhe .container .header-menu-button button {
+        color: #fff;
+        font-size: 14px;
+        font-weight: 600;
+        box-shadow: #252222 0 4px 4px 0;
+        background-color: rgb(80, 173, 80);
+        width: 120px;
+        height: 40px;
+        border-radius: 10px;
+    }
