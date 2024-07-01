@@ -19,14 +19,14 @@ namespace Webthuetro
             {
                 return;
             }
-            string user = Session["UserID"] as string;
+            string user = Session["Username"] as string;
             if (user == null)
             {
                 // Xử lý khi không có người dùng nào được xác định
                 ScriptManager.RegisterStartupScript(this, GetType(), "showalert", "alert('Vui lòng đăng nhập để đăng tin.');", true);
                 return; // Dừng hàm xử lý ở đây
             }
-            string sql = "select * from USERR where ID_TAIKHOAN = '" + user + "'";
+            string sql = "select * from USERR where USERNAME = '" + user + "'";
             DataTable dt = DB.readdata(sql);
             foreach (DataRow row in dt.Rows)
             {

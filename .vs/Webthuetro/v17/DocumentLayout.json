@@ -3,27 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|c:\\users\\lapphu\\downloads\\asp.net_trotot-main (1)\\asp.net_trotot-main\\asp.net_trotot-main\\asp.net_trotot-main\\webthuetro\\quanlybaidang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|solutionrelative:webthuetro\\quanlybaidang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\webthuetro\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|solutionrelative:webthuetro\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|c:\\users\\lapphu\\downloads\\asp.net_trotot-main (1)\\asp.net_trotot-main\\asp.net_trotot-main\\asp.net_trotot-main\\webthuetro\\assest\\css\\quanlybaidang.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|solutionrelative:webthuetro\\assest\\css\\quanlybaidang.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|c:\\users\\lapphu\\downloads\\asp.net_trotot-main (1)\\asp.net_trotot-main\\asp.net_trotot-main\\asp.net_trotot-main\\webthuetro\\manageuser.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|solutionrelative:webthuetro\\manageuser.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\webthuetro\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|solutionrelative:webthuetro\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|c:\\users\\lapphu\\downloads\\asp.net_trotot-main (1)\\asp.net_trotot-main\\asp.net_trotot-main\\asp.net_trotot-main\\webthuetro\\quanlybaidang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\webthuetro\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|solutionrelative:webthuetro\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|c:\\users\\lapphu\\downloads\\asp.net_trotot-main (1)\\asp.net_trotot-main\\asp.net_trotot-main\\asp.net_trotot-main\\webthuetro\\manageuser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|solutionrelative:webthuetro\\manageuser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|c:\\users\\lapphu\\downloads\\asp.net_trotot-main (1)\\asp.net_trotot-main\\asp.net_trotot-main\\asp.net_trotot-main\\webthuetro\\support.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|solutionrelative:webthuetro\\support.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|c:\\users\\lapphu\\downloads\\asp.net_trotot-main (1)\\asp.net_trotot-main\\asp.net_trotot-main\\asp.net_trotot-main\\webthuetro\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|solutionrelative:webthuetro\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\webthuetro\\quanlybaidang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|solutionrelative:webthuetro\\quanlybaidang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|c:\\users\\lapphu\\downloads\\asp.net_trotot-main (1)\\asp.net_trotot-main\\asp.net_trotot-main\\asp.net_trotot-main\\webthuetro\\connet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\webthuetro\\assest\\css\\quanlybaidang.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|solutionrelative:webthuetro\\assest\\css\\quanlybaidang.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|c:\\users\\lapphu\\downloads\\asp.net_trotot-main (1)\\asp.net_trotot-main\\asp.net_trotot-main\\asp.net_trotot-main\\webthuetro\\quanlybaidang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|solutionrelative:webthuetro\\quanlybaidang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\webthuetro\\inputsp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|solutionrelative:webthuetro\\inputsp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\webthuetro\\connet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|solutionrelative:webthuetro\\connet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -32,10 +52,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\webthuetro\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|solutionrelative:webthuetro\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\webthuetro\\inputsp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|solutionrelative:webthuetro\\inputsp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\webthuetro\\inputsp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -48,9 +64,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\webthuetro\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|solutionrelative:webthuetro\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{401EFE9F-3C32-4517-AB2D-62FC60555995}|Webthuetro\\Webthuetro.csproj|c:\\users\\lapphu\\downloads\\asp.net_trotot-main (1)\\asp.net_trotot-main\\asp.net_trotot-main\\asp.net_trotot-main\\webthuetro\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|909d16b3-c8e8-43d1-a2b8-26ea0d4b6b57"
     }
   ],
   "DocumentGroupContainers": [
@@ -60,74 +73,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "ManageUser.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\ManageUser.aspx.cs",
+              "RelativeDocumentMoniker": "Webthuetro\\ManageUser.aspx.cs",
+              "ToolTip": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\ManageUser.aspx.cs",
+              "RelativeToolTip": "Webthuetro\\ManageUser.aspx.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAEwBoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:37:53.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "QuanLyBaiDang.css",
               "DocumentMoniker": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\assest\\css\\QuanLyBaiDang.css",
               "RelativeDocumentMoniker": "Webthuetro\\assest\\css\\QuanLyBaiDang.css",
               "ToolTip": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\assest\\css\\QuanLyBaiDang.css",
               "RelativeToolTip": "Webthuetro\\assest\\css\\QuanLyBaiDang.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-07-01T07:08:18.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "QuanLyBaiDang.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\QuanLyBaiDang.aspx.cs",
-              "RelativeDocumentMoniker": "Webthuetro\\QuanLyBaiDang.aspx.cs",
-              "ToolTip": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\QuanLyBaiDang.aspx.cs",
-              "RelativeToolTip": "Webthuetro\\QuanLyBaiDang.aspx.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABgAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T07:04:51.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "InputSP.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\InputSP.aspx.cs",
-              "RelativeDocumentMoniker": "Webthuetro\\InputSP.aspx.cs",
-              "ToolTip": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\InputSP.aspx.cs",
-              "RelativeToolTip": "Webthuetro\\InputSP.aspx.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAcwF8AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T16:32:22.243Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "InputSP.aspx",
-              "DocumentMoniker": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\InputSP.aspx",
-              "RelativeDocumentMoniker": "Webthuetro\\InputSP.aspx",
-              "ToolTip": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\InputSP.aspx",
-              "RelativeToolTip": "Webthuetro\\InputSP.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-28T16:32:19.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "QuanLyBaiDang.aspx",
-              "DocumentMoniker": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\QuanLyBaiDang.aspx",
-              "RelativeDocumentMoniker": "Webthuetro\\QuanLyBaiDang.aspx",
-              "ToolTip": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\QuanLyBaiDang.aspx",
-              "RelativeToolTip": "Webthuetro\\QuanLyBaiDang.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-01T07:04:28.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MasterPage.Master.cs",
+              "DocumentMoniker": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\MasterPage.Master.cs",
+              "RelativeDocumentMoniker": "Webthuetro\\MasterPage.Master.cs",
+              "ToolTip": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\MasterPage.Master.cs",
+              "RelativeToolTip": "Webthuetro\\MasterPage.Master.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAEwC8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:04:04.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MasterPage.Master",
               "DocumentMoniker": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\MasterPage.Master",
               "RelativeDocumentMoniker": "Webthuetro\\MasterPage.Master",
@@ -140,7 +129,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\Default.aspx",
+              "RelativeDocumentMoniker": "Webthuetro\\Default.aspx",
+              "ToolTip": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\Default.aspx",
+              "RelativeToolTip": "Webthuetro\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-01T07:32:25.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "support.aspx",
+              "DocumentMoniker": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\support.aspx",
+              "RelativeDocumentMoniker": "Webthuetro\\support.aspx",
+              "ToolTip": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\support.aspx",
+              "RelativeToolTip": "Webthuetro\\support.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-01T07:35:01.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageUser.aspx",
+              "DocumentMoniker": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\ManageUser.aspx",
+              "RelativeDocumentMoniker": "Webthuetro\\ManageUser.aspx",
+              "ToolTip": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\ManageUser.aspx",
+              "RelativeToolTip": "Webthuetro\\ManageUser.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-01T07:37:44.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuanLyBaiDang.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\QuanLyBaiDang.aspx.cs",
+              "RelativeDocumentMoniker": "Webthuetro\\QuanLyBaiDang.aspx.cs",
+              "ToolTip": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\QuanLyBaiDang.aspx.cs",
+              "RelativeToolTip": "Webthuetro\\QuanLyBaiDang.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:04:51.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InputSP.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\InputSP.aspx.cs",
+              "RelativeDocumentMoniker": "Webthuetro\\InputSP.aspx.cs",
+              "ToolTip": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\InputSP.aspx.cs",
+              "RelativeToolTip": "Webthuetro\\InputSP.aspx.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwF8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:32:22.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InputSP.aspx",
+              "DocumentMoniker": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\InputSP.aspx",
+              "RelativeDocumentMoniker": "Webthuetro\\InputSP.aspx",
+              "ToolTip": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\InputSP.aspx",
+              "RelativeToolTip": "Webthuetro\\InputSP.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-28T16:32:19.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuanLyBaiDang.aspx",
+              "DocumentMoniker": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\QuanLyBaiDang.aspx",
+              "RelativeDocumentMoniker": "Webthuetro\\QuanLyBaiDang.aspx",
+              "ToolTip": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\QuanLyBaiDang.aspx",
+              "RelativeToolTip": "Webthuetro\\QuanLyBaiDang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-01T07:04:28.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\Web.config",
               "RelativeDocumentMoniker": "Webthuetro\\Web.config",
@@ -153,19 +233,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Webthuetro",
               "DocumentMoniker": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\Webthuetro.csproj",
               "RelativeDocumentMoniker": "Webthuetro\\Webthuetro.csproj",
               "ToolTip": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\Webthuetro.csproj",
               "RelativeToolTip": "Webthuetro\\Webthuetro.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-28T16:45:45.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T16:45:45.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Connet.cs",
               "DocumentMoniker": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\Connet.cs",
               "RelativeDocumentMoniker": "Webthuetro\\Connet.cs",
@@ -178,20 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MasterPage.Master.cs",
-              "DocumentMoniker": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\MasterPage.Master.cs",
-              "RelativeDocumentMoniker": "Webthuetro\\MasterPage.Master.cs",
-              "ToolTip": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\MasterPage.Master.cs",
-              "RelativeToolTip": "Webthuetro\\MasterPage.Master.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAvwEAAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T16:04:04.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "MasterPage.Master.designer.cs",
               "DocumentMoniker": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\MasterPage.Master.designer.cs",
               "RelativeDocumentMoniker": "Webthuetro\\MasterPage.Master.designer.cs",
@@ -204,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Default.aspx.cs",
               "DocumentMoniker": "C:\\Users\\LAPPHU\\Downloads\\ASP.NET_TROTOT-main (1)\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\ASP.NET_TROTOT-main\\Webthuetro\\Default.aspx.cs",
               "RelativeDocumentMoniker": "Webthuetro\\Default.aspx.cs",
@@ -212,7 +278,8 @@
               "RelativeToolTip": "Webthuetro\\Default.aspx.cs",
               "ViewState": "AQIAADIAAAAAAAAAAAAuwEQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T16:04:02.188Z"
+              "WhenOpened": "2024-06-28T16:04:02.188Z",
+              "EditorCaption": ""
             }
           ]
         }

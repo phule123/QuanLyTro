@@ -24,23 +24,27 @@
             </div>
         </div>
     </div>
-    <div id="themmoi" runat="server" class="themmoi" >
+    <div id="themmoi" runat="server" class="themmoi">
         <div class="container">
             <div class="container-themmoi">
                 <a href="InputSP.aspx">Đăng tin mới</a>
             </div>
+            <div class="container-themmoi">
+                <a href="QuanLyBaiDang.aspx">Quản Lý Bài Đăng của bạn</a>
+            </div>
+
         </div>
     </div>
-    <div class ="theloai" style="margin-top:20px;">
+    <div class="theloai" style="margin-top: 20px;">
         <div class="container">
             <div class="container-theloai">
-                    <asp:LinkButton ID="LinkButton2" runat="server" OnClick="LinkButton2Click" CssClass="a">THUÊ TRỌ</asp:LinkButton>
-                    <asp:LinkButton ID="LinkButton3" runat="server" OnClick="LinkButton1Click">TÌM TRỌ</asp:LinkButton>
-                    <asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton3Click">Tất cả</asp:LinkButton>
+                <asp:LinkButton ID="LinkButton2" runat="server" OnClick="LinkButton2Click" CssClass="a">THUÊ TRỌ</asp:LinkButton>
+                <asp:LinkButton ID="LinkButton3" runat="server" OnClick="LinkButton1Click">TÌM TRỌ</asp:LinkButton>
+                <asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton3Click">Tất cả</asp:LinkButton>
             </div>
         </div>
     </div>
-    
+
     <!-- nội dung -->
 
     <div class="container">

@@ -11,11 +11,11 @@
          <!-- Menu Thông Báo  -->
         <div class="header-menu-notification">
             <div class="body-notification">
-                <a href=""><img src="img/icon email.jpg" alt=""></a>
+                <a href=""><img src="Images/a.jpg" alt=""></a>
                 <a class="notification" href="">Thông Báo</a>
             </div>
             <div class="body-account">
-                <a href=""><img src="img/icon counselors.png" alt=""></a>
+                <a href=""><img src="Images/a.jpg" alt=""></a>
                 <a class="account" href="../index.html">Tư Vấn Viên</a>
             </div>
         </div>
@@ -29,15 +29,15 @@
 
             <div class="body-contact">
                 <div class="body-contact-direct">
-                    <a href=""><img src="img/contact-direc.png" alt=""></a>
+                    <a href=""><img src="Images/a.jpg" alt=""></a>
                     <a href=""><p>Liên hệ trực tiếp</p></a>
                 </div>
                 <div class="body-contact-email">
-                    <a href=""><img src="img/contact-email.png" alt=""></a>
+                    <a href=""><img src="Images/a.jpg" alt=""></a>
                     <a href=""><p>thuetro@gmail.com</p></a>
                 </div>
                 <div class="body-contact-phone-number">
-                    <a href=""><img src="img/contact-phone-number.png" alt=""></a>
+                    <a href=""><img src="Images/a.jpg" alt=""></a>
                     <a href=""><p>19005005</p></a>
                 </div>
             </div>
@@ -50,4 +50,5 @@
             <a class="body-renter" href="">Tôi là người cho thuê</a>
             <a class="body-tenant" href="">Tôi là người thuê</a>
          </div>
+    </div>
 </asp:Content>
